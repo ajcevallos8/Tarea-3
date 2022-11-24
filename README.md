@@ -111,6 +111,15 @@ Docente: Ing. Darwin Omar Alulema Flores
 # 4. VIDEO 
 
 # 5. CONCLUSIONES 
+•	En conclusión, con lo que se ha revisado a lo largo del capitulo 5 y 6 aprendimos que:
+
+•	En un circuito en serie la corriente se mantiene y el voltaje se divide.
+
+•	En un circuito en paralelo la corriente se divide y el voltaje se mantiene constante.
+
+•	Un divisor de tensión es una configuración de un circuito eléctrico que reparte la tensión de una fuente entre una o más impedancias conectadas en serie.
+
+•	Un divisor de corriente es una configuración presente en circuitos eléctricos que puede fragmentar la corriente eléctrica de una fuente entre diferentes resistencias
 
 
 # 6. BIBLIOGRAFIA

@@ -1,5 +1,5 @@
 # Tarea-3
-# INFORME TAREA 1
+# INFORME TAREA  3
 Principios de circuitos eléctricos-Floyd Capítulos 5-6
 # Universidad de las Fuerzas Armadas ESPE
 

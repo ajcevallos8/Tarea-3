@@ -108,7 +108,8 @@ Docente: Ing. Darwin Omar Alulema Flores
 ![image](https://user-images.githubusercontent.com/116775893/203699787-f68c989c-a8fe-4507-a8df-706abd7d2b28.png)
 ![image](https://user-images.githubusercontent.com/116775893/203699799-17b2e3c7-17b9-4b98-8158-8b800909d688.png)
 
-# 4. VIDEO 
+# 4. VIDEO
+https://youtu.be/xeRvLooHCUA
 
 # 5. CONCLUSIONES 
 •	En conclusión, con lo que se ha revisado a lo largo del capitulo 5 y 6 aprendimos que:
